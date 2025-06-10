@@ -1,3 +1,4 @@
 # black-jack
 a basic multitools on python 
-![fhnjuiqsfe](https://github.com/user-attachments/assets/06887e01-7eab-49ff-9097-ac21c7a08af5)
+
+![tocaaaard](https://github.com/user-attachments/assets/0e00f079-f6c7-469e-b29f-b7fece4b104f)
